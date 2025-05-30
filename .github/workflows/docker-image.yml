@@ -33,7 +33,7 @@ jobs:
         
     - name: Push Docker Image
       run: |
-        docker push t3fox/docker-graphql:0.0.2 
+        docker push t3fox/docker-graphql:0.0.1
     
     
     
